@@ -1,0 +1,17 @@
+{
+  "group_1.jsonl.gz": {
+    "keys": [
+      "page_id"
+    ],
+    "count": 4475,
+    "singleton_groups": 1462
+  },
+  "group_2.jsonl.gz": {
+    "keys": [
+      "page_id",
+      "ad_id"
+    ],
+    "count": 246745,
+    "singleton_groups": 246745
+  }
+}

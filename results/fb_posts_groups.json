@@ -1,0 +1,16 @@
+{
+  "group_1.jsonl.gz": {
+    "keys": [
+      "Facebook_Id"
+    ],
+    "count": 21,
+    "singleton_groups": 0
+  },
+  "group_2.jsonl.gz": {
+    "keys": [
+      "Type"
+    ],
+    "count": 10,
+    "singleton_groups": 0
+  }
+}

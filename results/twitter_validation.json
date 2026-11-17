@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "group_counts": {
+    "group_1.jsonl.gz": 15,
+    "group_2.jsonl.gz": 14
+  },
+  "explicit_leaf_checks_excluding_byte_identical_groups": 23538,
+  "relative_tolerance": 1e-09,
+  "absolute_tolerance": 1e-09,
+  "input_sha256": "73d31148b536d378161a03d5dfdfc0fc4159d0ddef408e6fe467b86daf30e568"
+}

@@ -1,0 +1,89 @@
+column,Facebook ads,Facebook posts,Twitter/X posts
+Angry,absent,numeric,absent
+Care,absent,numeric,absent
+Comments,absent,numeric,absent
+Facebook_Id,absent,categorical,absent
+Haha,absent,numeric,absent
+Is Video Owner?,absent,categorical,absent
+Likes,absent,numeric,absent
+Love,absent,numeric,absent
+Overperforming Score,absent,numeric,absent
+Page Admin Top Country,absent,categorical,absent
+Page Category,absent,categorical,absent
+Post Created,absent,categorical,absent
+Post Created Date,absent,date,absent
+Post Created Time,absent,categorical,absent
+Post Views,absent,numeric,absent
+Sad,absent,numeric,absent
+Shares,absent,numeric,absent
+Sponsor Category,absent,empty,absent
+Sponsor Id,absent,empty,absent
+Sponsor Name,absent,empty,absent
+Total Interactions,absent,numeric,absent
+Total Views,absent,numeric,absent
+Total Views For All Crossposts,absent,numeric,absent
+Type,absent,categorical,absent
+Video Length,absent,categorical,absent
+Video Share Status,absent,categorical,absent
+Wow,absent,numeric,absent
+ad_creation_time,date,absent,absent
+ad_id,categorical,absent,absent
+advocacy_msg_type_illuminating,numeric,numeric,numeric
+attack_msg_type_illuminating,numeric,numeric,numeric
+bookmarkCount,absent,absent,numeric
+bylines,categorical,absent,absent
+covid_topic_illuminating,numeric,numeric,numeric
+createdAt,absent,absent,categorical
+cta_msg_type_illuminating,numeric,numeric,numeric
+currency,categorical,absent,absent
+delivery_by_region,categorical,absent,absent
+demographic_distribution,categorical,absent,absent
+economy_topic_illuminating,numeric,numeric,numeric
+education_topic_illuminating,numeric,numeric,numeric
+election_integrity_Truth_illuminating,numeric,absent,numeric
+engagement_cta_subtype_illuminating,numeric,numeric,numeric
+environment_topic_illuminating,numeric,numeric,numeric
+estimated_audience_size,numeric,absent,absent
+estimated_impressions,numeric,absent,absent
+estimated_spend,numeric,absent,absent
+foreign_policy_topic_illuminating,numeric,numeric,numeric
+fraud_illuminating,numeric,numeric,numeric
+freefair_illuminating,numeric,numeric,numeric
+fundraising_cta_subtype_illuminating,numeric,numeric,numeric
+governance_topic_illuminating,numeric,numeric,numeric
+health_topic_illuminating,numeric,numeric,numeric
+id,absent,absent,categorical
+illuminating_mentions,categorical,absent,absent
+illuminating_scored_message,categorical,absent,categorical
+illuminating_scored_messageelection_integrity_Truth_illuminating,absent,empty,absent
+image_msg_type_illuminating,numeric,numeric,numeric
+immigration_topic_illuminating,numeric,numeric,numeric
+inReplyToId,absent,absent,categorical
+incivility_illuminating,numeric,numeric,numeric
+isConversationControlled,absent,absent,categorical
+isQuote,absent,absent,categorical
+isReply,absent,absent,categorical
+isRetweet,absent,absent,categorical
+issue_msg_type_illuminating,numeric,numeric,numeric
+lang,absent,absent,categorical
+lgbtq_issues_topic_illuminating,numeric,numeric,numeric
+likeCount,absent,absent,numeric
+military_topic_illuminating,numeric,numeric,numeric
+month_year,absent,absent,categorical
+page_id,categorical,absent,absent
+post_id,absent,categorical,absent
+publisher_platforms,categorical,absent,absent
+quoteCount,absent,absent,numeric
+quoteId,absent,absent,categorical
+race_and_ethnicity_topic_illuminating,numeric,numeric,numeric
+replyCount,absent,absent,numeric
+retweetCount,absent,absent,numeric
+safety_topic_illuminating,numeric,numeric,numeric
+scam_illuminating,numeric,numeric,numeric
+social_and_cultural_topic_illuminating,numeric,numeric,numeric
+source,absent,absent,categorical
+technology_and_privacy_topic_illuminating,numeric,numeric,numeric
+url,absent,absent,categorical
+viewCount,absent,absent,numeric
+voting_cta_subtype_illuminating,numeric,numeric,numeric
+womens_issue_topic_illuminating,numeric,numeric,numeric

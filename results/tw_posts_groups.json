@@ -1,0 +1,16 @@
+{
+  "group_1.jsonl.gz": {
+    "keys": [
+      "month_year"
+    ],
+    "count": 15,
+    "singleton_groups": 0
+  },
+  "group_2.jsonl.gz": {
+    "keys": [
+      "source"
+    ],
+    "count": 14,
+    "singleton_groups": 3
+  }
+}
