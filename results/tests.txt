@@ -1,0 +1,8 @@
+test_empty_and_singleton_numeric_groups (test_stats.TestStats.test_empty_and_singleton_numeric_groups) ... ok
+test_three_engines (test_stats.TestStats.test_three_engines) ... ok
+test_unrelated_schema_and_encoding (test_stats.TestStats.test_unrelated_schema_and_encoding) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.752s
+
+OK
